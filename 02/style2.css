@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+.block {
+    display: block;
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    /* padding: 15px 10px; */
+    /* padding-left: 30px; */
+    /* border: 30px solid black; */
+    
+
+}
+
+.orange {
+    background-color: orange;
+}
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+.block2 {
+    float: left;
+    width: 50%;
+    height: 110%;
+    text-align: center;
+    padding: 150px 100px;
+}
+.block3 {
+    float: left;
+    width: 33.33%;
+    height: 60%;
+    text-align: center;
+    padding: 120px 100px;
+}
+.pink {
+    background-color: pink;
+}
+.yelov {
+    background-color: rgb(255, 123, 0);
+}
+.violet {
+    background-color: rgb(183, 43, 226);
+}
