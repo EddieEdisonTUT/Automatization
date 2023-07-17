@@ -1,0 +1,37 @@
+body {
+
+}
+ol {
+    
+    /* list-style-type: upper-roman; */
+}
+li {
+    font-size: 30px;
+}
+li ul li {
+    font-size: 20px;
+}
+ul {
+    margin-left: 100px;
+    list-style-position:outside;
+    list-style-image: url('../01/img/img_2.png');
+}
+li:hover {
+    color: red;
+}
+
+.block {
+    /* border: 2px solid black; */
+    /* float: left; */
+    /* width: 100px;
+    height: 200px; */
+}
+.block::before {
+    content: "> ";
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/* .block::before {
+    content: 'before';
+
+} */

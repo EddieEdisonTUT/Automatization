@@ -1,0 +1,39 @@
+table{
+    background-color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+}
+tr{
+    border: 1px solid slategray;
+    margin: 0px;
+
+}
+th{
+    border: 1px solid slategray;
+    margin: 0px;
+    font-weight: 500px;
+}
+td{
+    border: 1px solid slategray;
+    margin: 0px;
+
+}
+.c1{
+    background-color:orange;
+    font-weight: 200px;
+}
+.c2{
+    background-color: violet;
+
+}
+.c3{
+    background-color: palevioletred;
+
+}
+.c4{
+    background-color: aqua;
+}
+.c5{
+    background-color: blueviolet;
+}
+

@@ -1,0 +1,23 @@
+* {
+    color: brown;
+
+}
+
+body {
+    background-color: #400000;
+}
+
+h1{
+    background-color: rgb(122, 43, 226);
+    color: bisque;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+
+p {
+    font-size: 200px;
+    font-style: bold;
+
+}
