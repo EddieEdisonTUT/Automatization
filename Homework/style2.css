@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Roboto Mono', monospace;
+    flex-direction: row;
+}
+
+* {
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.card {
+    font-family: 'Roboto Mono', monospace;
+    width: 80px;
+    height: 60px;
+    background-color: #c0c0c0;
+    text-align:center;
+    font-size: 45px;
+    margin: 10px;
+    float:left;
+
+}
+.heart, .diamond {
+    color: red;
+}
+.club, .spade {
+    color: black;
+}
