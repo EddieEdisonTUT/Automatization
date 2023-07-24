@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+* {
+    margin: auto;
+}
+
+
+.container {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: orange;
+    width: 600px;
+    height: 600px;
+    
+}
+
+
+fieldset {
+    margin-top: 60px;
+    padding: 20px;
+    background-color: rgb(243, 214, 241);
+    width: 300px;
+    text-align: center;
+    justify-content: center;
+    
+} 
+
+input {
+    margin: 10px;
+    height: 40px;
+    width: 300px;
+    text-align: center;
+}
+.sub {
+    background-color: green;
+    width: 308px;
+    height: 40px;
+    color: aliceblue;
+}
+p {
+    color: rgb(255, 94, 0);
+    padding: 20px;
+    height: 40px;
+}
+.footer {
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+}
+.links {
+    display: flex;
+    flex-direction: row;
+    color: aliceblue;
+    padding: auto;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    justify-content: space-between;
+    
+}
+.facebook {
+    font-family: 'Roboto', sans-serif;
+    background-color: blue;
+    text-align: center;
+    margin-right: 20px;
+    padding: 10px;   
+    width: 100%;
+    height: 50%;
+    
+}
+
+.Twitter {
+    font-family: 'Roboto', sans-serif;
+    background-color: aqua;
+    text-align: center;
+    margin-left: 20px;
+    padding: 10px;
+    width: 100%;
+    height: 50%;
+}
