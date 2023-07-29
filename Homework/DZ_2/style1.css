@@ -1,0 +1,32 @@
+body{
+    width: 800px;
+    display: flex;
+    font-family: 'Roboto Mono', monospace;
+    flex-direction: column;
+    
+
+}
+
+header {
+
+    color: blueviolet;
+}
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+div {
+    display: flex;
+    font-family: 'Roboto Mono', monospace;
+    flex-direction: column;
+    word-wrap: break-word;
+    width: 70%;
+    padding: 10px;
+}
+
+h2 {
+    color: rgb(178, 185, 248);
+    font-size: 26px;
+    margin: 0;
+}
