@@ -1,0 +1,42 @@
+body {
+    width: 500px;
+    margin: auto;
+    font-size: 20px;
+}
+ul {
+    list-style: none;
+    padding: 0px;
+    
+  }
+
+li {
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 0px;
+    background-color: rgb(214, 227, 233);
+}
+
+
+
+li:nth-child(even) {
+    background-color: #c5e0fc;
+    
+}
+
+li:nth-child(odd) {
+    background-color: #a6d0fd;
+}
+li.done {
+    background-color: #999999;
+    
+}
+
+.task {
+    text-decoration: line-through;
+    color: #050505;
+}
+.cross {
+    color: red;
+    font-size: 12px;
+    padding-left: 15px;
+  }
