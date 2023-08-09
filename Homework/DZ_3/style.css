@@ -48,3 +48,33 @@ hr {
 .italic-text {
     font-style: italic;
 }
+
+@media (max-width: 845px) {
+    body {
+        width: 700px;
+    }
+}
+
+@media (max-width: 740px) {
+    body {
+        width: 600px;
+    }
+}
+
+@media (max-width: 640px) {
+    body {
+        width: 500px;
+    }
+}
+
+@media (max-width: 540px) {
+    body {
+        width: 400px;
+    }
+}
+
+@media (max-width: 440px) {
+    body {
+        width: 400px;
+    }
+}
