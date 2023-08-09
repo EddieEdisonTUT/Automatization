@@ -1,0 +1,26 @@
+.japan {
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: relative;
+    margin: auto;
+}
+  
+.circle {
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    position: absolute;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    margin: auto;
+    width: 300px;
+    padding-bottom: 20px;
+}

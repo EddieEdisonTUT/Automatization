@@ -11,11 +11,13 @@ body {
     display: block;
     width: 800px;
     margin: auto;
-   
+    
     padding: 0;
 }
 main {
     background-color: rgb(212, 255, 241);
+    border-radius: 10px;
+    width: 100%;
 }
 
 .container {
